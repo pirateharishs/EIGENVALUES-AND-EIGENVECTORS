@@ -1,4 +1,6 @@
-# EIGENVALUES-AND-EIGENVECTORS
+## NAME:HARISH S
+## REG NO:212223230071
+## EIGENVALUES-AND-EIGENVECTORS
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
@@ -12,7 +14,7 @@ Prepare the lists from each equations and assign in np.array()
 ## Step 3:
 Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ## Step 4: 
-End the program
+End the program.
 ## Program:
 ![image](https://github.com/pirateharishs/EIGENVALUES-AND-EIGENVECTORS/assets/166011385/ff736dd5-064b-4ce9-a70d-1c0304e13d8d)
 
